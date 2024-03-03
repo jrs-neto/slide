@@ -103,7 +103,7 @@ img {
   color: white;
   width: 40px;
   height: 40px;
-  background: #FB5 url('/img/arrow.svg') center center no-repeat;
+  background: #FB5 url('../img/arrow.svg') center center no-repeat;
 }
 
 .arrow-nav button.prev {
